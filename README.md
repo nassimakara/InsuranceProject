@@ -1,4 +1,6 @@
-# InsuranceProject
+# InsuranceProject - Customer Intelligence for an Insurance Company
+
+Project Type - Machine Learning problem to be implemented in pytho
 
 Project Description
 
